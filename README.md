@@ -8,3 +8,7 @@
 <img width="960" height="706" alt="image" src="https://github.com/user-attachments/assets/dd39dfcc-c73f-4c15-ac20-cb6a06fb4680" />
 <img width="799" height="877" alt="image" src="https://github.com/user-attachments/assets/9b7102c2-65b1-4edd-ba45-78198dfa9568" />
 
+#Tercera parte PEDIDO:
+<img width="1920" height="987" alt="image" src="https://github.com/user-attachments/assets/7e29f3a1-a62d-405b-a660-334d662bb0ab" />
+<img width="1920" height="576" alt="image" src="https://github.com/user-attachments/assets/7b94d386-5134-4b68-8119-bdb1eee9ba14" />
+<img width="1341" height="804" alt="image" src="https://github.com/user-attachments/assets/0d3ec952-d8df-4707-b697-7b8f5e75f293" />
